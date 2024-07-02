@@ -4,5 +4,3 @@ Master Computer Science Student. Here is where I upload all my university and pe
 ## Github's Stats
 
 [![MaxBubblegum47's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxBubblegum47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
