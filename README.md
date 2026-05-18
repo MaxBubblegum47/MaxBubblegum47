@@ -1,9 +1,55 @@
-[![MasterHead](https://github.com/MaxBubblegum47/MaxBubblegum47/blob/main/header.png)](https://github.com/MaxBubblegum47)
-I am a Master Degree Computer Science student who spends most of his time on Python/C++ projects and occasionaly have fun with ESP8266/Arduino Board. For both of my thesis (bachelor and master) I have worked on compilers, respectively: LLVM and STAQ. For both of them the final aim was adding more backends, but for STAQ compiler I had to target quantum computers's hardware. In my free time I love to play videogames and listening to music. I collect old deck player, vintage amplifier and records. When I travel I love to take pictures with my Nikon D90 or my Lumix G6.
+<div align="center">
+  <a href="https://github.com/MaxBubblegum47">
+    <img src="https://github.com/MaxBubblegum47/MaxBubblegum47/raw/main/header.png" alt="MasterHead" />
+  </a>
+</div>
+
+---
+
+## Hi, I'm Lorenzo 👋
+
+I'm a **C++ Software Engineer** working in defense & embedded systems at **[MBDA](https://www.mbda-systems.com/)** via **Brain Technologies**. My daily work revolves around real-time HMI/CNC software, embedded Linux, cross-compilation pipelines, and low-level systems programming.
+
+Previously I built CNC/HMI platforms at **Esautomotion** and worked on compiler backends (LLVM & STAQ for quantum targets) at **Fraunhofer ITWM** during my master's thesis.
+
+I hold a **Master's degree in Computer Science** (110/110 cum laude) from the **University of Modena and Reggio Emilia**.
+
+---
 
 ## Technology Stack 🧰
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## My Github Stats 🧭
+**Languages**
 
-[![MaxBubblegum47's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxBubblegum47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Frameworks & Tools**
+
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/GDB-A8192F?style=for-the-badge&logo=gnu&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Domains**
+
+- 🖥️ Embedded Linux / Cross-compilation (i.MX8MP, Yocto-based)
+- ⚙️ CNC / HMI systems (industrial control software)
+- 🔬 Compiler backends (LLVM, STAQ/quantum)
+- 🛡️ Defense-grade software (MBDA)
+
+---
+
+## My GitHub Stats 🧭
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxBubblegum47&show_icons=true&theme=dark" alt="MaxBubblegum47's GitHub stats" />
+</div>
+
+---
+
+## Find me elsewhere 🔗
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-stigliano-603aba153/)
+[![Personal Site](https://img.shields.io/badge/Website-MaxBubblegum47-informational?style=for-the-badge&logo=hugo&logoColor=white)](https://MaxBubblegum47.github.io/mb47)
